@@ -1,4 +1,4 @@
-package com.juniorvieira.cursomc.dto;
+ package com.juniorvieira.cursomc.dto;
 
 import java.io.Serializable;
 
